@@ -36,7 +36,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 
 
 /**
-  OpMode to profile robot stop distance
+  OpMode to profile robot stop distance, and more
  */
 
 @TeleOp(name="ProfileStopDistance", group="Profile")
